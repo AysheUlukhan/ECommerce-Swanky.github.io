@@ -2,7 +2,7 @@ import React, {useState } from 'react'
 import Image from 'next/image'
 import Link from 'next/link';
 // import ItemBlogProduct from '../components/ItemBlogProduct';
-import { blogProduct } from './blogProduct';
+import { blogProduct } from '../data/blogProduct';
 import Shopping from '@/components/modals/shopping';
 import { TfiClose } from 'react-icons/tfi'
 const Blog = () => {

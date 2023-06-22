@@ -5,7 +5,7 @@ import SwiperCore, { Autoplay } from 'swiper'
 import 'swiper/css';
 // import Itemproduct from '../components/Itemproduct';
 import photo5 from '../assets/img/quotation.svg'
-import { product } from '../pages/product'
+import { product } from '../data/product'
 import { TfiClose } from 'react-icons/tfi'
 
 const Shop = () => {

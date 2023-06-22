@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { product } from '../pages/product';
+import { product } from '../data/product';
 
 const Pagination = () => {
     const [currentPage, setCurrentPage] = useState(1);

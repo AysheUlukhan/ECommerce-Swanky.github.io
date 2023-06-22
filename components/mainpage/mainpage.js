@@ -4,7 +4,7 @@ import SwiperCore, { Autoplay } from 'swiper'
 import 'swiper/css';
 import Image from 'next/image'
 import productCarusel from '../carusel/productCarusel';
-import photo from 'C:/Users/HP/Desktop/e-commerse-swanky/assets/img/photo.svg'
+import photo from '../../assets/img/photo.svg'
 import photo1 from '../../assets/img/slide-foto1.svg'
 import photo2 from '../../assets/img/slide-foto2.svg'
 import photo3 from '../../assets/img/slide-foto3.svg'

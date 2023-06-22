@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import SwiperCore, { Autoplay } from 'swiper'
 import 'swiper/css';
 import Image from 'next/image'
-import { product } from '../../pages/product';
+import { product } from '../../data/product';
 
 const productCarusel = () => {
     SwiperCore.use([Autoplay])

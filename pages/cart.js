@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Image from 'next/image'
 import close from '../assets/icons/close.png'
-import { product } from './product'
+import { product } from '../data/product'
 
 
 const Cart = () => {

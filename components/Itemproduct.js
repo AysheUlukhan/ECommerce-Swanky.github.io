@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Image from 'next/image'
-import { product } from '../pages/product'
+import { product } from '../data/product'
 
 const Itemproduct = () => {
     const [currentPage, setCurrentPage] = useState(1);
